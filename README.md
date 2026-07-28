@@ -1,6 +1,6 @@
 # Fantastic Bassoon
 
-Fantastic Bassoon is a playful browser game where you guide a musical hero through a glowing meadow of notes while avoiding shadowy squawks.
+Fantastic Bassoon is a playful browser game where you guide a musical hero through a glowing meadow of notes while avoiding shadowy squawks
 
 ## Features
 - Collect shimmering notes to earn points
